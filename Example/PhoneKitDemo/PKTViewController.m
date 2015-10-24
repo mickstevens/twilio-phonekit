@@ -14,7 +14,8 @@
 #import "NSString+PKTHelpers.h"
 
 #warning replace with the URL of your server
-#define kServerBaseURL @"https://twilio-client-server.herokuapp.com"
+// #define kServerBaseURL @"https://twilio-client-server.herokuapp.com"
+#define kServerBaseURL @"https://twilio-ios-server.herokuapp.com"
 #define kTokenEndpoint @"auth.php"
 
 @implementation PKTViewController
